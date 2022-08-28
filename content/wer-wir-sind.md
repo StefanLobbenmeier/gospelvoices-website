@@ -7,6 +7,8 @@ type: page
 menu: main
 ---
 
+{{< toc >}}
+
 # Warum singen wir?
 Jeder in unserem Chor hat verschiedene Momente in seinem Leben gehabt, wo das Singen sein Herz berührte.
 Und der Wunsch nach „Davon will ich mehr“ wurde dann lauter.
