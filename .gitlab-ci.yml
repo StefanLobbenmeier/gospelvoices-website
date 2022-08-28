@@ -1,0 +1,14 @@
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.100.2
+
+build:
+  image: registry.gitlab.com/pages/hugo/hugo_extended:0.100.2
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+    HUGO_ENV: production
+  before_script:
+    - git submodule update --init --recursive
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
