@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://neu.gospelvoices.org/'
+languageCode = 'de-de'
+title = 'Gospel Voices'
 theme = "ananke"
