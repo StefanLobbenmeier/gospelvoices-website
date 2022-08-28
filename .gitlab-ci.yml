@@ -21,6 +21,8 @@ deploy:
     paths:
       - node_modules/
       - app/bower_components
+  only:
+    - main
   script:
     - npm install -g firebase-tools
     - firebase use --token $FIREBASE_TOKEN production
