@@ -1,6 +1,7 @@
 image: registry.gitlab.com/pages/hugo/hugo_extended:0.100.2
 
 build:
+  stage: build
   image: registry.gitlab.com/pages/hugo/hugo_extended:0.100.2
   variables:
     GIT_SUBMODULE_STRATEGY: recursive
@@ -12,3 +13,18 @@ build:
   artifacts:
     paths:
       - public
+
+deploy:
+  stage: deploy
+  image: node:latest
+  cache:
+    paths:
+      - node_modules/
+      - app/bower_components
+  environment: Production
+  only:
+    - master
+  script:
+    - npm install -g firebase-tools
+    - firebase use --token $FIREBASE_TOKEN production
+    - firebase deploy -m "Pipeline $CI_PIPELINE_ID, build $CI_BUILD_ID" --non-interactive --token $FIREBASE_TOKEN
