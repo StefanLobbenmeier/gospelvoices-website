@@ -2,6 +2,9 @@
 title: "Wer Wir Sind"
 date: 2022-08-28T18:37:31+02:00
 draft: false
+description: Informationen über Gospel Voices
+type: page
+menu: main
 ---
 
 Warum singen wir?
