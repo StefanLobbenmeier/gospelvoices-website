@@ -28,7 +28,7 @@ VR 6458
 
 Lizenz- und Nutzungsbedingungen www.pixabay.com siehe [hier](https://pixabay.com/de/service/terms/).
 
-Allen Bildern, die hier nicht aufgeführt und nicht Teil der Galerie sind, ist ein Hinweis unterlegt, der durch Anklicken des Bildes (Maus-Symbol wird zur Lupe) gelesen werden kann.Bild von Nutzername "geralt (Gerd Altmann)" von www.pixabay.com. Link zu den Lizenz- und Nutzungsbedingungen von pixabay finden sich in unserem Impressum.Bild von Nutzername "notnixon" von www.pixabay.com. Link zu den Lizenz- und Nutzungsbedingungen von pixabay finden sich in unserem Impressum.Bild von Nutzername "WilliamCho (Sang Hyun Cho)" von www.pixabay.com. Link zu den Lizenz- und Nutzungsbedingungen von pixabay finden sich in unserem Impressum.
+Allen Bildern, die hier nicht aufgeführt und nicht Teil der Galerie sind, ist ein Hinweis unterlegt, der durch Anklicken des Bildes (Maus-Symbol wird zur Lupe) gelesen werden kann.
 
 # Datenschutzerklärung
 Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
