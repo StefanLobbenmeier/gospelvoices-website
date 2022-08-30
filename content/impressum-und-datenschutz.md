@@ -1,3 +1,11 @@
+---
+title: "Impressum und Datenschutz"
+date: 2022-08-28T18:37:31+02:00
+draft: false
+type: page
+menu: main
+---
+
 # Impressum
 
 ## Angaben gemäß § 5 TMG:
