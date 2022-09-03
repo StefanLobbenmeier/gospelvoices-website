@@ -3,7 +3,8 @@ title: Impressum und Datenschutz
 date: '2022-08-28T18:37:31.000+02:00'
 type: page
 menu:
-  main: {}
+  main:
+    weight: 4
 featured_image: ''
 
 ---

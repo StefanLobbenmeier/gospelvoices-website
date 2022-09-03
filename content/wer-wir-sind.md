@@ -4,7 +4,8 @@ date: '2022-08-28T18:37:31.000+02:00'
 description: Informationen über Gospel Voices
 type: page
 menu:
-  main: {}
+  main:
+    weight: 1
 featured_image: ''
 
 ---

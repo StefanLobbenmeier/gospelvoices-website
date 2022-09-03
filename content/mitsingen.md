@@ -3,7 +3,8 @@ title: Mitsingen
 date: '2022-08-28T18:37:31.000+02:00'
 type: page
 menu:
-  main: {}
+  main:
+    weight: 3
 featured_image: ''
 
 ---

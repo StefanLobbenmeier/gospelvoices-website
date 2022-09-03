@@ -1,9 +1,7 @@
-baseURL = 'https://neu.gospelvoices.org/'
-languageCode = 'de-de'
-title = 'Gospel Voices'
+baseURL = "https://neu.gospelvoices.org/"
+languageCode = "de-de"
 theme = "ananke"
-
-[markup]
-    [markup.tableOfContents]
-        startLevel = 1
-        endLevel = 8
+title = "Gospel Voices"
+[markup.tableOfContents]
+endLevel = 8
+startLevel = 1
