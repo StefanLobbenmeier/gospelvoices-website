@@ -1,11 +1,12 @@
 ---
-title: "Mitsingen"
-date: 2022-08-28T18:37:31+02:00
-draft: false
+title: Mitsingen
+date: '2022-08-28T18:37:31.000+02:00'
 type: page
-menu: main
----
+menu:
+  main: {}
+featured_image: ''
 
+---
 {{< toc >}}
 
 # Muss ich Noten lesen können?

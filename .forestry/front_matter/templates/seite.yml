@@ -26,5 +26,6 @@ fields:
 pages:
 - content/_index.md
 - content/impressum-und-datenschutz.md
+- content/mitsingen.md
 - content/probe-aktuelles.md
 - content/wer-wir-sind.md
