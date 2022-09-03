@@ -11,3 +11,5 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+pages:
+- content/probe-aktuelles.md
