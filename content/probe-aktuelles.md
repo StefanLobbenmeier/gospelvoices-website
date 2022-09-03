@@ -1,9 +1,9 @@
 +++
 cascade = ""
 featured_image = ""
-menu = ""
+menu = "main"
 title = "Probe & Aktuelles"
-type = ""
+type = "page"
 
 +++
 # Aktuelles
