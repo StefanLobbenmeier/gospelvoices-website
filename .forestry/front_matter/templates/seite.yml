@@ -24,5 +24,6 @@ fields:
   default: main
   hidden: false
 pages:
+- content/_index.md
 - content/probe-aktuelles.md
 - content/wer-wir-sind.md
