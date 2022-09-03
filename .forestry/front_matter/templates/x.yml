@@ -1,0 +1,19 @@
+---
+label: x
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: type
+  label: type
+- type: text
+  name: menu
+  label: menu
+- type: text
+  name: featured_image
+  label: featured_image
