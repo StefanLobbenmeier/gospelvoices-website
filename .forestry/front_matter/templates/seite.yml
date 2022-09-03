@@ -11,5 +11,19 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+- name: type
+  type: text
+  config:
+    required: false
+  label: Type
+  hidden: true
+  default: page
+- name: menu
+  type: text
+  config:
+    required: false
+  label: Menü
+  default: main
+  hidden: true
 pages:
 - content/probe-aktuelles.md
