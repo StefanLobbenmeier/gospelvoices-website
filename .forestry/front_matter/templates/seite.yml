@@ -25,5 +25,6 @@ fields:
   hidden: false
 pages:
 - content/_index.md
+- content/impressum-und-datenschutz.md
 - content/probe-aktuelles.md
 - content/wer-wir-sind.md
