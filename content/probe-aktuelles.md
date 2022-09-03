@@ -1,7 +1,9 @@
 +++
 cascade = ""
 featured_image = ""
+menu = ""
 title = "Probe & Aktuelles"
+type = ""
 
 +++
 # Aktuelles
@@ -10,7 +12,7 @@ Am 10.08.2022 werden wir nach der langen Zeit endlich wieder mit unseren Proben 
 
 Wir proben jeden Mittwoch von 20-22 Uhr (probenfreie Zeiten siehe unter „Aktuell und sehr bald“)
 
-# Adresse Probenraum bis auf Weiteres
+# Adresse Probenraum
 
 Ev. Gemeindehaus Dietrich-Bonhoeffer-Haus  
 Am Weißdorn 2a  
