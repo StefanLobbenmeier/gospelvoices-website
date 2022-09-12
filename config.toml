@@ -1,6 +1,6 @@
 baseURL = "https://neu.gospelvoices.org/"
 languageCode = "de-de"
-theme = "ananke"
+theme = "gospelvoices-theme"
 title = "Gospel Voices"
 [markup.tableOfContents]
 endLevel = 8

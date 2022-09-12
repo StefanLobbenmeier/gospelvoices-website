@@ -1,3 +1,4 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
+
+[submodule "themes/gospelvoices-theme"]
+	path = themes/gospelvoices-theme
 	url = ../gospelvoices-theme.git
