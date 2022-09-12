@@ -2,3 +2,4 @@
 [submodule "themes/gospelvoices-theme"]
 	path = themes/gospelvoices-theme
 	url = ../gospelvoices-theme.git
+	branch = "hugo-serif"
