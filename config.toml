@@ -12,3 +12,10 @@ startLevel = 1
 google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
 heading = "Playfair Display"
 base = "Source Sans Pro"
+
+[params.logo]
+mobile = "images/logo/logo.png"
+mobile_height = "36px"
+desktop = "images/logo/logo.png"
+desktop_height = "36px"
+alt = "Gospel Voices"
