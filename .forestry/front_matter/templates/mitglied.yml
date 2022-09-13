@@ -1,0 +1,25 @@
+---
+label: Mitglied
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: jobtitle
+  label: jobtitle
+- type: text
+  name: linkedinurl
+  label: linkedinurl
+- type: boolean
+  name: promoted
+  label: promoted
+- type: number
+  name: weight
+  label: weight
