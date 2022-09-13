@@ -5,7 +5,7 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: directory
-  path: team
+  path: content/team
   label: Mitglieder
   create: all
   match: "**/*"
@@ -13,7 +13,7 @@ sections:
   path: content
   label: Seiten
   create: all
-  match: "**/*"
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
