@@ -14,12 +14,6 @@ fields:
 - type: text
   name: jobtitle
   label: jobtitle
-- type: text
-  name: linkedinurl
-  label: linkedinurl
 - type: boolean
   name: promoted
   label: promoted
-- type: number
-  name: weight
-  label: weight
