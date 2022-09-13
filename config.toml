@@ -19,3 +19,10 @@ mobile_height = "36px"
 desktop = "images/logo/logo.png"
 desktop_height = "36px"
 alt = "Gospel Voices"
+
+[params.colors]
+primary = "#009ee0"
+black = "#2f2f41"
+white = "#ffffff"
+white_offset = "#f6f7ff"
+grey = "#5C5A5A"
