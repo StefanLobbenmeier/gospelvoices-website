@@ -1,5 +1,5 @@
 
 [submodule "themes/gospelvoices-theme"]
 	path = themes/gospelvoices-theme
-	url = git@gitlab.com:StefanLobbenmeier/gospelvoices-theme.git
+	url = https://gitlab.com/StefanLobbenmeier/gospelvoices-theme.git
 	branch = "hugo-serif"
