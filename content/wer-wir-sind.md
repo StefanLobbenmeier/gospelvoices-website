@@ -3,21 +3,17 @@ title: Wer Wir Sind
 date: '2022-08-28T18:37:31.000+02:00'
 description: Informationen über Gospel Voices
 type: page
+featured_image: ''
 menu:
   main:
     weight: 1
-featured_image: ''
 
 ---
 {{< toc >}}
 
 # Warum singen wir?
-Jeder in unserem Chor hat verschiedene Momente in seinem Leben gehabt, wo das Singen sein Herz berührte.
-Und der Wunsch nach „Davon will ich mehr“ wurde dann lauter.
-Bei dem einem sofort und mit aller Macht.
-Bei dem anderen leise und stetig.
-So wie Du vielleicht auch jetzt gerade den Wunsch verspürst, Singen und Musik Teil Deines Lebens werden zu lassen.
-Regelmäßig, in dem Du wöchentlich zu einer Chorprobe gehen möchtest oder einmalig, um einen besonderen Moment in Deinem Leben zu feiern.
+
+Jeder in unserem Chor hat verschiedene Momente in seinem Leben gehabt, wo das Singen sein Herz berührte. Und der Wunsch nach „Davon will ich mehr“ wurde dann lauter. Bei dem einem sofort und mit aller Macht. Bei dem anderen leise und stetig. So wie Du vielleicht auch jetzt gerade den Wunsch verspürst, Singen und Musik Teil Deines Lebens werden zu lassen. Regelmäßig, in dem Du wöchentlich zu einer Chorprobe gehen möchtest oder einmalig, um einen besonderen Moment in Deinem Leben zu feiern.
 
 Egal wie, Singen verbindet.
 Auch wenn dieser Satz schon etwas abgedroschen klingt, so stimmt er doch.
@@ -35,6 +31,7 @@ Um die zu bewahren, stellen wir uns auch neuen Herausforderungen, ohne ein „Le
 Daher sind die kontinuierlichen Teilnahmen an den wöchentlichen Proben und die regelmäßigen Auftritte, eine sehr wichtige Säule unseres Chorlebens.
 
 # Warum Gospel und was singen wir noch?
+
 Am besten kann Euch die Frage „Warum Gospel?“ unser Chorleiter, Rainer Fercke, beantworten.
 Er hat die Gospel-Voices auf den Weg gebracht.
 Angefangen hat der Chor damals als Kirchenchor.
@@ -69,6 +66,7 @@ Im Kleinen versuchen wir dies innerhalb der Chorgemeinschaft zu leben.
 Etwas größer wird es dann, wenn wir Auftritte ohne Gage, Teilnahme an Benefiz-Veranstaltungen oder auch zu Spenden-Konzerten einladen, wenn die Situation es erfordert.
 
 # Nur Singen und sonst nichts?
+
 Nein, natürlich gibt es bei uns auch die geselligen Momente.
 Nach großen Konzerten setzten wir uns oft noch einen Moment zusammen, Kleinigkeiten zum Schmausen werden von vielen mitgebracht und wir lassen unser gemeinsames Erlebnis gemütlich ausklingen.
 Private Gespräche untereinander sind wichtig, aber diese finden beim Proben der Songs meist keinen Platz.
@@ -82,6 +80,7 @@ In der Vergangenheit gab es Ausflüge und Chorfahrten und diese wird es immer da
 Einen kleinen bildlichen Eindruck kannst Du bekommen, wenn Du Dir unsere Galerie anschaust.
 
 # Ein paar Daten, Zahlen und Fakten (Stand Frühjahr 2019)
+
 Gegründet 1999 als Kirchenchor der Evangelische Kirchengemeinde Schwerin-Frohlinde durch unseren Chorleiter Rainer Fercke, existieren die Gospel-Voices seit 2010 als eigenständiger, eingetragener Verein.
 
 Seit einiger Zeit wird unser Chorleiter durch seine Tochter, Detje Fercke, unterstützt und bei Bedarf vertreten.
@@ -93,9 +92,7 @@ Unser Chor umfasst 3 Frauenstimmen (1. Sopran, 2. Sopran und Alt; vertreten durc
 Wie in fast allen gemischten Chören sind unsere Männer zahlenmäßig hoffnungslos unterlegen und freuen sich natürlich besonders über Zuwachs in den eigenen Reihen.
 Aber uns sind Interessierte aller Stimmlagen jederzeit sehr willkommen.
 
-Unser jüngstes Mitglied ist 27 Jahre alt und das Älteste ist 75.
-Die Gruppe der 50-70 jährigen ist am stärksten vertreten.
-Diese macht immerhin 32 unserer Mitglieder aus.
+Unser jüngstes Mitglied ist 24 Jahre alt und das Älteste ist 75. Die Gruppe der 50-70 jährigen ist am stärksten vertreten. Diese macht immerhin 32 unserer Mitglieder aus.
 
 Zu unserem momentanen Repertoire an Liedern für alle Tage gehören ca. 75 Songs und unsere Sammlung an weihnachtlichen Stücken umfasst ca. 25 Songs.
 Wie bereits an anderer Stelle erwähnt, kommen immer wieder in beiden Bereichen neue Lieder hinzu und andere dürfen es sich erst einmal eine lange Zeit in der „Mottenkiste“ gemütlich machen.
