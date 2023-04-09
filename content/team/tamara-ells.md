@@ -6,5 +6,5 @@ jobtitle: Chorleitung
 weight: "4"
 
 ---
-Chorleiter: Rainer Fercke  
-Stellvertretende Chorleiterin: Detje Fercke
+Chorleiterin: Detje Wilde  
+Stellvertretende Chorleiter: Rainer Fercke
