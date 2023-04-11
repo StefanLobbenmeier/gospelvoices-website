@@ -1,0 +1,21 @@
+<div id="main-menu" class="main-menu">
+  <ul>
+      {{ $currentPage := . }}
+      {{ range $index, $element := .Site.Menus.main }}
+      {{ $active := or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }}
+      {{ $active = or $active (eq ($element.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
+      <li class="menu-item-{{ $element.Name | lower }} {{ if $active }}active{{ end }}">
+          <a href="{{ $element.URL }}">
+              {{ $element.Pre }}
+              <span>{{ $element.Name }}</span>
+          </a>
+      </li>
+      {{ if eq $index 3 }}
+      <li>
+        {{ partial "logo.html" $currentPage  }}
+      </li>
+      {{ end }}
+      {{ end }}
+
+  </ul>
+</div>
