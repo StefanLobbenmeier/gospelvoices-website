@@ -6,14 +6,14 @@ $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
 $grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
 
 $colors: (
-  color-1: red,
-  color-2: orange,
-  color-3: yellow,
-  color-4: green,
-  color-5: blue,
-  color-6: purple,
-  color-7: purple,
-  color-8: purple,
+  color-1: #d90909,
+  color-2: #f27405,
+  color-3: #f0c507,
+  color-4: #9bb000,
+  color-5: #109ab5,
+  color-6: #0F4999,
+  color-7: #570C4A,
+  color-8: #694763,
 );
 @function color($color) {
   @return map-get($colors, $color);
