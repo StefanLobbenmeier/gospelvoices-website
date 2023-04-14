@@ -32,4 +32,12 @@
       }
     }
   }
+
+  @each $colorName, $color in $colors{
+    .#{$colorName} {
+      span {
+        color: $color
+      }
+    }
+  }
 }

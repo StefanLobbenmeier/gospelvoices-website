@@ -4,7 +4,7 @@
       {{ range $index, $element := .Site.Menus.main }}
       {{ $active := or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }}
       {{ $active = or $active (eq ($element.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
-      <li class="menu-item-{{ $element.Name | lower }} {{ if $active }}active{{ end }} menu-color-{{ $element.Page.Params.color_index }}">
+      <li class="menu-item-{{ $element.Name | lower }} {{ if $active }}active{{ end }} color-{{ $element.Page.Params.color_index }}">
           <a href="{{ $element.URL }}">
               {{ $element.Pre }}
               <span>{{ $element.Name }}</span>
