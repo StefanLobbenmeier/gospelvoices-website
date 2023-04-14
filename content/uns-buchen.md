@@ -2,6 +2,7 @@
 featured_image = ""
 title = "Uns Buchen"
 type = "page"
+color_index = 5
 [menu.main]
 weight = 5
 

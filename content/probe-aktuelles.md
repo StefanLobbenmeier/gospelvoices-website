@@ -3,6 +3,7 @@ cascade = ""
 featured_image = ""
 title = "Probe & Aktuelles"
 type = "page"
+color_index = 2
 [menu.main]
 weight = 2
 
