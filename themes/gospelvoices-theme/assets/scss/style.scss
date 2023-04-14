@@ -5,6 +5,20 @@ $white: {{ .Site.Params.colors.white | default "#ffffff" }};
 $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
 $grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
 
+$colors: (
+  color-1: red,
+  color-2: orange,
+  color-3: yellow,
+  color-4: green,
+  color-5: blue,
+  color-6: purple,
+  color-7: purple,
+  color-8: purple,
+);
+@function color($color) {
+  @return map-get($colors, $color);
+}
+
 // Fonts
 $font-family-base: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: {{ .Site.Params.fonts.heading }}, serif, -apple-system;
