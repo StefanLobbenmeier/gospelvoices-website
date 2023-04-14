@@ -7,6 +7,7 @@
   // box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
   border-bottom: 1px solid $white-offset;
   padding: 10px 0px;
+  margin: 0 60px;
   .container {
     display: flex;
     justify-content: space-between;
@@ -16,6 +17,12 @@
     position: absolute;
     z-index: 10;
     width: 100%;
+  }
+
+  @each $colorName, $color in $colors{
+    &.#{$colorName} {
+      border-bottom: 1px solid $color;
+    }
   }
 }
 .lock-scroll {
