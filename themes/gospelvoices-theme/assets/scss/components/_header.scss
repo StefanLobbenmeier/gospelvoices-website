@@ -4,8 +4,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  // box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
-  border-bottom: 1px solid $white-offset;
   padding: 10px 0px;
   margin: 0 60px;
   .container {
@@ -19,9 +17,14 @@
     width: 100%;
   }
 
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(0.25turn, rgba(255,249,34,100), rgba(255,0,128,100), rgba(56,2,155,100));
+  border-image-slice: 1;
+
   @each $colorName, $color in $colors{
     &.#{$colorName} {
-      border-bottom: 1px solid $color;
+      border-image: unset;
+      border-bottom: 2px solid $color;
     }
   }
 }
