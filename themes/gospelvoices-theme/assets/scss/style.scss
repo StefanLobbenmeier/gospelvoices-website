@@ -5,7 +5,7 @@ $white: {{ .Site.Params.colors.white | default "#ffffff" }};
 $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
 $grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
 
-$colors: (
+$rainbow-colors: (
   color-1: #d90909,
   color-2: #f27405,
   color-3: #f0c507,
@@ -16,7 +16,7 @@ $colors: (
   color-8: #694763,
 );
 @function color($color) {
-  @return map-get($colors, $color);
+  @return map-get($rainbow-colors, $color);
 }
 
 // Fonts

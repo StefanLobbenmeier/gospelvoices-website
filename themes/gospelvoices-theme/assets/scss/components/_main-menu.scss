@@ -33,7 +33,7 @@
     }
   }
 
-  @each $colorName, $color in $colors{
+  @each $colorName, $color in $rainbow-colors {
     .#{$colorName} {
       span {
         color: $color

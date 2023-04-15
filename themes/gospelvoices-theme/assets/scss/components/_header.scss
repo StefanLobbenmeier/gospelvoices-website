@@ -17,16 +17,20 @@
     width: 100%;
   }
 
-  border-bottom: 2px solid transparent;
-  border-image: linear-gradient(0.25turn, rgba(255,249,34,100), rgba(255,0,128,100), rgba(56,2,155,100));
-  border-image-slice: 1;
-
-  @each $colorName, $color in $colors{
+  $gradient: '';
+  @each $colorName, $color in $rainbow-colors {
+    $gradient: #{$gradient}, #{$color};
     &.#{$colorName} {
       border-image: unset;
       border-bottom: 2px solid $color;
     }
   }
+
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(0.25turn $gradient);
+  border-image-slice: 1;
+
+
 }
 .lock-scroll {
   .header {
