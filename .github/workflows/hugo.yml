@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Hugo Build and Firebase Deploy
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.110.0'
-          # extended: true
+          extended: true
 
       - name: Build
         run: hugo --minify
