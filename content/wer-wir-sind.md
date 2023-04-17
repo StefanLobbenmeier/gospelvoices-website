@@ -5,7 +5,7 @@ description = "Informationen über Gospel Voices"
 type = "page"
 featured = true
 featured_image = ''
-color_index = 1
+color = "color-1"
 [menu.main]
 weight = 1
 

@@ -4,7 +4,7 @@ featured_image = ""
 title = "Probe & Aktuelles"
 type = "page"
 featured = true
-color_index = 2
+color = "color-2"
 [menu.main]
 weight = 2
 
