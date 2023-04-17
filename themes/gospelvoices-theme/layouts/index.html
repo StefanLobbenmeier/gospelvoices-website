@@ -26,9 +26,9 @@
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {{ range first 6 (sort $services ".Params.menu.main.weight") }}
+      {{ range (sort $services ".Params.menu.main.weight") }}
       <div class="col-12 col-md-4 mb-1">
-        {{ .Render "summary" }}
+        {{ .Render "homepage-summary" }}
       </div>
       {{ end }}
     </div>
