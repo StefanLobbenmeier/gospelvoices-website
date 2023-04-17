@@ -2,6 +2,7 @@
 featured_image = ""
 title = "Repertoire"
 type = "page"
+featured = true
 color_index = 6
 [menu.main]
 weight = 6

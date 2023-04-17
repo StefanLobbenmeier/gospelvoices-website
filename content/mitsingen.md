@@ -1,13 +1,13 @@
----
-title: Mitsingen
-date: '2022-08-28T18:37:31.000+02:00'
-type: page
-menu:
-  main:
-    weight: 3
-featured_image: ''
++++
+title = "Mitsingen"
+date = '2022-08-28T18:37:31.000+02:00'
+type = "page"
+featured = true
+featured_image = ''
+[menu.main]
+weight = 3
 
----
++++
 {{< toc >}}
 
 # Muss ich Noten lesen können?

@@ -1,15 +1,15 @@
----
-title: Wer Wir Sind
-date: '2022-08-28T18:37:31.000+02:00'
-description: Informationen über Gospel Voices
-type: page
-featured_image: ''
-color_index: 1
-menu:
-  main:
-    weight: 1
++++
+title = "Wer Wir Sind"
+date = '2022-08-28T18:37:31.000+02:00'
+description = "Informationen über Gospel Voices"
+type = "page"
+featured = true
+featured_image = ''
+color_index = 1
+[menu.main]
+weight = 1
 
----
++++
 {{< toc >}}
 
 # Warum singen wir?

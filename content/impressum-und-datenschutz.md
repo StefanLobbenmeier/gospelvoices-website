@@ -1,13 +1,12 @@
----
-title: Impressum und Datenschutz
-date: '2022-08-28T18:37:31.000+02:00'
-type: page
-menu:
-  main:
-    weight: 4
-featured_image: ''
++++
+title = "Impressum und Datenschutz"
+date = '2022-08-28T18:37:31.000+02:00'
+type = "page"
+featured_image = ''
+[menu.main]
+weight = 4
 
----
++++
 # Impressum
 
 ## Angaben gemäß § 5 TMG:
