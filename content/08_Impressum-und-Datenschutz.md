@@ -4,7 +4,7 @@ date = '2022-08-28T18:37:31.000+02:00'
 type = "page"
 featured_image = ''
 [menu.main]
-weight = 4
+weight = 8
 
 +++
 # Impressum
