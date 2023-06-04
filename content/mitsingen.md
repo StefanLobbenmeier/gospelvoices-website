@@ -5,7 +5,7 @@ type = "page"
 featured = true
 featured_image = ''
 [menu.main]
-weight = 3
+weight = 9
 
 +++
 {{< toc >}}

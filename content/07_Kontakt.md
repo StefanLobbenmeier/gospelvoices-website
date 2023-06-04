@@ -2,6 +2,7 @@
 featured_image = ""
 title = "Kontakt"
 type = "page"
+color = "color-7"
 [menu.main]
 weight = 7
 
