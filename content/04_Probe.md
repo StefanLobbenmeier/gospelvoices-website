@@ -1,15 +1,15 @@
 +++
 cascade = ""
 featured_image = ""
-title = "Probe & Aktuelles"
+title = "Probe"
 type = "page"
 featured = true
-color = "color-2"
+color = "color-4"
 [menu.main]
 weight = 4
 
 +++
-# Aktuelles
+# Aktuelles zu Probe
 
 Am 10.08.2022 werden wir nach der langen Zeit endlich wieder mit unseren Proben starten. Proben-Besucher werden gebeten sich vorab telefonisch beim Vorstand telefonisch unter 02305 549085 anzumelden und sich über die getroffenen Hygienemaßnahmen zu informieren.
 
